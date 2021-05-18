@@ -1,0 +1,5 @@
+restaurantID,restaurantName,chefName,restaurantDetail,address,tel,price,course
+OMK001,KOKO Japannese,Sawa Kyo,NULL,Silom,02-224-4444,999,12
+OMK002,MIZO MORI,Nagano Yoshiro,NULL,Siam,02-555-5757,999,8
+OMK003,SEIRYU,Tao Masanori,NULL,Ekkamai,02-899-8888,2490,15
+OMK004,Omakase Ten,Moriyama Takehiko,NULL,Thonglor,02-332-5678,2299,15
