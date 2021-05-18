@@ -1,0 +1,16 @@
+body{
+  background-color:rgb(69, 97, 122);
+}
+.container{
+    justify-content: center;
+  align-items: center;
+  flex-wrap: center;
+  background-color: rgba(178, 181, 182, 0.692);
+  border-radius: 20px 20px;
+  box-shadow: 2px 2px 12px rgba(161, 174, 179, 0.692);
+  position: center;
+  padding: 2% 2%;
+  
+}
+
+}
